@@ -8,6 +8,7 @@
     "build": "vitepress build docs",
     "deploy": "git subtree push --prefix=docs/.vitepress/dist origin gh-pages"
   },
+  "packageManager": "pnpm",
   "keywords": [],
   "author": "",
   "license": "ISC",
